@@ -1504,6 +1504,7 @@ void init_config_default(void)
   ui.button_switch_mapping = FALSE;
   ui.autoload_pdf_xoj = FALSE;
   ui.poppler_force_cairo = FALSE;
+  ui.lockHorizontalScroll = FALSE;
   
   // the default UI vertical order
   ui.vertical_order[0][0] = 1; 
